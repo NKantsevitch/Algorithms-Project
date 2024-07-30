@@ -1,8 +1,5 @@
 # Algorithms Project: The Big Heist
 
-![bank robbers](./assets/bank-robbers.jpg)
-<p style="text-align:right;line-height:0;"><a href='https://www.freepik.com/vectors/background'>Bank robbers vector created by vectorpocket - www.freepik.com</a></p>
-
 ## Description
 
 Given a list of bank locations, how much money each one holds and the time it would take to rob each one, you need to apply your hard-won algorithm knowledge to make as much profit as possible! _I bet you didn't think that data science could be this profitable!_
